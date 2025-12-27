@@ -8,13 +8,13 @@ Scripts used for the RNA-seq analysis in Matsumoto et al. 2026.
 RNA-seq data
 >Sus scrofa (pig) swine intestinal epithelial cells: NCBI BioProject database (accession ID: PRJDB35408) approximately 4 Gb
 >
-library
+Library preparation
 >>NEBNext Poly(A) mRNA Magnetic Isolation Module (NEB E7490)(New England Biolabs, Ipswich, MA, USA)
 >>NEBNext Ultra RNA Library Prep Kit for Illumina (E7530) (New England Biolabs, Ipswich, MA, USA)
 >>
 >Lactiplantibacillus plantarum JCM 1149T: NCBI BioProject database (accession ID: PRJDB35409) approximately 1 Gb
 >
-library
+Library preparation
 >>Ribo-Zero Plus rRNA Depletion Kit (Illumina, San Diego, CA, USA)
 >>NEBNext Ultra II Directional RNA Library Prep Kit (New England Biolabs)
 >
